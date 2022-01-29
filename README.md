@@ -1,2 +1,1 @@
-# C16
-Colocando som na aplicação.  
+# PRO-C16-Trex-Etapa-6
